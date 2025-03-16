@@ -1,9 +1,7 @@
 
 ---
 
-### ** Restaurant UI (React - Learning Project)**
-
-# Restaurant UI 🍽️  
+# Restaurant UI (React - Learning Project) 🍽️  
 A restaurant UI built while following a JavaScript Mastery tutorial. This project helped me understand React fundamentals and improve my front-end skills.
 
 ## 📌 Project Overview  
