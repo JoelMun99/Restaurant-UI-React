@@ -1,8 +1,8 @@
 
 ---
 
-### **2️⃣ Restaurant UI (React - Learning Project)**
-```markdown
+### ** Restaurant UI (React - Learning Project)**
+
 # Restaurant UI 🍽️  
 A restaurant UI built while following a JavaScript Mastery tutorial. This project helped me understand React fundamentals and improve my front-end skills.
 
@@ -20,7 +20,7 @@ This is a UI design for a restaurant website. The project was created to practic
 - JSX syntax, making development smoother.  
 
 ## 🛠 Technologies Used  
-- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Frontend:** React.js, CSS, JavaScript  
 
 ## 🚀 Future Improvements  
 🔹 Implement dynamic menu items using API data.  
