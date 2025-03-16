@@ -28,5 +28,5 @@ This is a UI design for a restaurant website. The project was created to practic
 ## 📥 Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/restaurant-ui.git
+   git clone https://github.com/JoelMun99/restaurant-ui.git
    cd restaurant-ui
